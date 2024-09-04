@@ -22,6 +22,12 @@ h1 {
     letter-spacing: 0.4rem; /* Espaçamento entre letras */
 }
 
+/* Estiliza os títulos h2 */
+h2 {
+    text-align: center; /* Alinha o texto ao centro */
+    /* font-family: 'Georgia';*/
+}
+
 /* Estiliza as seções da página */
 section {
     display: flex; /* Usa Flexbox para layout */
