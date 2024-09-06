@@ -4,7 +4,7 @@
 
 É um site simples e divertido que te ajuda a explorar o mundo sem sair do lugar!  Digita o nome de um país, e pronto! Você encontra um monte de informações legais sobre ele: capital, idioma, moeda, curiosidades e muito mais!
 
-![Descrição do GIF]((https://github.com/GabrielDepiro/paises/blob/main/paises.gif))
+![Descrição do GIF](https://github.com/GabrielDepiro/paises/blob/main/paises.gif)
 
 **Como funciona a mágica?**
 
