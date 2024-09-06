@@ -4,13 +4,14 @@
 
 É um site simples e divertido que te ajuda a explorar o mundo sem sair do lugar!  Digita o nome de um país, e pronto! Você encontra um monte de informações legais sobre ele: capital, idioma, moeda, curiosidades e muito mais!
 
-<div class="center">
-  ![Demonstração do projeto](https://github.com/GabrielDepiro/paises/blob/main/paises.gif)
-</div>
+
+![Demonstração do projeto](https://github.com/GabrielDepiro/paises/blob/main/paises.gif)
+
 
 **Como funciona a mágica?**
 
 1. **Digite e pesquise:** Na barra de pesquisa, escreva o nome do país que você quer conhecer melhor.
+    **Obs.** A base de dados contém esses países - Brasil, Canadá, Japão, França, Austrália, Egito.
 2. **Resultados instantâneos:** A mágica acontece! A página se atualiza com todas as informações que encontramos sobre o país que você digitou.
 3. **Explore à vontade:** Clique nos links para saber ainda mais sobre cada país.
 
