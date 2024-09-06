@@ -4,6 +4,9 @@
 
 É um site simples e divertido que te ajuda a explorar o mundo sem sair do lugar!  Digita o nome de um país, e pronto! Você encontra um monte de informações legais sobre ele: capital, idioma, moeda, curiosidades e muito mais!
 
+*Link do projeto:*
+https://paises-chi.vercel.app
+
 
 ![Demonstração do projeto](https://github.com/GabrielDepiro/paises/blob/main/paises.gif)
 
