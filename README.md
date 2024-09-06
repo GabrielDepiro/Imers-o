@@ -1,5 +1,3 @@
-## **README.md Descontraído para o seu Projeto de Pesquisa de Países**
-
 ###  **Desvendando o Mundo com um Clique! - Imersão Dev com o Google Gemini**
 
 **O que é esse projeto?**
@@ -38,15 +36,3 @@ Quer ajudar a melhorar este projeto? Abra um pull request! Toda ajuda é bem-vin
 * **Design:** O design da página pode ser melhorado, mas o foco aqui foi na funcionalidade.
 
 **Vamos juntos explorar o mundo!** 
-
-**#desenvolvimentoweb #javascript #html #css #países #viagem**
-
-**Dica:** Para deixar o README ainda mais legal, você pode adicionar imagens ou GIFs demonstrando o funcionamento da aplicação.
-
-**Observações:**
-
-* **Personalize:** Adapte o texto do README para refletir a sua personalidade e o estilo do seu projeto.
-* **Detalhes técnicos:** Se você quiser adicionar mais detalhes técnicos, como a estrutura de pastas, bibliotecas utilizadas, etc., pode incluir uma seção específica para isso.
-* **Licença:** Indique a licença do seu projeto (por exemplo, MIT) para que outras pessoas possam utilizá-lo e modificá-lo.
-
-Com este README, você terá um guia claro e divertido para o seu projeto, facilitando a compreensão tanto para usuários quanto para outros desenvolvedores.
