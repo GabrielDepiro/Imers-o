@@ -1,6 +1,6 @@
 ## **README.md Descontraído para o seu Projeto de Pesquisa de Países**
 
-###  **Desvendando o Mundo com um Clique!**
+###  **Desvendando o Mundo com um Clique! - Imersão Dev com o Google Gemini**
 
 **O que é esse projeto?**
 
