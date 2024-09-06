@@ -4,6 +4,8 @@
 
 É um site simples e divertido que te ajuda a explorar o mundo sem sair do lugar!  Digita o nome de um país, e pronto! Você encontra um monte de informações legais sobre ele: capital, idioma, moeda, curiosidades e muito mais!
 
+![Descrição do GIF](link_para_o_gif)
+
 **Como funciona a mágica?**
 
 1. **Digite e pesquise:** Na barra de pesquisa, escreva o nome do país que você quer conhecer melhor.
