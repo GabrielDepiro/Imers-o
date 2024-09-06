@@ -52,14 +52,4 @@ let paises =[{
     descricao: "O Egito é um país com uma rica história, berço de uma das civilizações mais antigas do mundo. As pirâmides de Gizé e o rio Nilo são alguns dos seus principais atrativos turísticos.",
     link: "https://pt.wikipedia.org/wiki/Egito",
     tags: "Pirâmides Piramides Nilo Faraós Faraos Antiguidade"
-},
-{
-    titulo: "Antártida",
-    continente: "Antártida",
-    capital: "Não possui",
-    idiomaOficial: "Vários", // A Antártida não tem um idioma oficial único
-    moedaOficial:"Não possui um governo centralizado e, consequentemente, não tem uma moeda oficial.",
-    descricao: "A Antártida é o continente mais frio e seco da Terra, coberto por uma espessa camada de gelo. É um continente dedicado à pesquisa científica.",
-    link: "https://pt.wikipedia.org/wiki/Antártida",
-    tags: "Pinguins pesquisa científica cientifica"
-}];
+},];
